@@ -1,7 +1,7 @@
 import json
 from kafka import KafkaConsumer, KafkaProducer
 
-KAFKA_BROKER = "localhost:9092"
+KAFKA_BROKER = "localhost:9092" #Hello
 TOPIC_ORDERS = "book_orders"
 TOPIC_VALIDATED = "validated_orders"
 
