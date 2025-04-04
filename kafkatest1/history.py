@@ -1,6 +1,6 @@
 import json
 from kafka import KafkaConsumer
-
+#Hello
 KAFKA_BROKER = "localhost:9092"
 TOPIC_VALIDATED = "validated_orders"
 
